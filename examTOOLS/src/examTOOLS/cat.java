@@ -6,5 +6,7 @@ public class cat {
 		this.cat=cat;
 	}
 	
+	String breed;
+	
 
 }
